@@ -7,4 +7,12 @@ class Class1
     {
         m_greeting = greeting;
     }
+
+    Greeting 
+    {
+        get
+        {
+            return m_greeting;
+        }
+    }
 }
