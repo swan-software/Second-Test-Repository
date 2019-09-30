@@ -2,6 +2,7 @@ class Class1
 {
     private string m_greeting;
     private Int32 m_count;
+    private Int64 m_int64;
 
     public Class1(string greeting)
     {
