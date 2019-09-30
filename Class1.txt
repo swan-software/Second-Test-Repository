@@ -1,6 +1,7 @@
 class Class1
 {
     private string m_greeting;
+    private Int32 m_count;
 
     public Class1(string greeting)
     {
