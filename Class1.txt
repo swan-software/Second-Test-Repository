@@ -3,6 +3,7 @@ class Class1
     private string m_greeting;
     private Int32 m_count;
     private DateTime m_dateTime;
+    private Int64 m_int64;
 
     public Class1(string greeting,
                   DateTime dateTime)
