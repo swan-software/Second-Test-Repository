@@ -2,10 +2,13 @@ class Class1
 {
     private string m_greeting;
     private Int32 m_count;
+    private DateTime m_dateTime;
 
-    public Class1(string greeting)
+    public Class1(string greeting,
+                  DateTime dateTime)
     {
         m_greeting = greeting;
+        m_dateTime = dateTime;
     }
 
     Greeting 
